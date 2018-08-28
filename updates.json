@@ -5,9 +5,9 @@
     "version": "0.0.4"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/ExpressoDelivery/release_gerenciador/releases/download/win32-x64-prod-v0.0.8",
-    "install": "https://github.com/ExpressoDelivery/release_gerenciador/releases/download/win32-x64-prod-v0.0.8/Gerenciador.de.Pedidos.Setup.0.0.8.exe",
-    "version": "0.0.8"
+    "update": "https://github.com/ExpressoDelivery/release_gerenciador/releases/download/win32-x64-prod-v0.0.9",
+    "install": "https://github.com/ExpressoDelivery/release_gerenciador/releases/download/win32-x64-prod-v0.0.9/Gerenciador.de.Pedidos.Setup.0.0.9.exe",
+    "version": "0.0.9"
   },
   "win32-ia32-prod": {
     "update": "https://github.com/ExpressoDelivery/release_gerenciador/releases/download/win32-ia32-prod-v0.0.8",
