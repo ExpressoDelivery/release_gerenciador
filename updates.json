@@ -10,8 +10,8 @@
     "version": "1.0.21"
   },
   "win32-ia32-prod": {
-    "update": "https://github.com/ExpressoDelivery/release_gerenciador/releases/download/win32-ia32-prod-v1.0.20",
-    "install": "https://github.com/ExpressoDelivery/release_gerenciador/releases/download/win32-ia32-prod-v1.0.20/Gerenciador.de.Pedidos.Setup.1.0.20.exe",
-    "version": "1.0.20"
+    "update": "https://github.com/ExpressoDelivery/release_gerenciador/releases/download/win32-ia32-prod-v1.0.21",
+    "install": "https://github.com/ExpressoDelivery/release_gerenciador/releases/download/win32-ia32-prod-v1.0.21/Gerenciador.de.Pedidos.Setup.1.0.21.exe",
+    "version": "1.0.21"
   }
 }
